@@ -14,6 +14,7 @@ In Simple Words SQlAlchemy lets user to Interact with Databases by Using Python 
 6. Basic Syntax for Creating Engine **`dialect+driver://username:password@host:port/database`**
 7. Here in the File I Used MySQL.However, You can use Your Own Choice of Database For More info about Configuring Different Databases [Click Here](https://docs.sqlalchemy.org/en/14/core/engines.html#postgresql)
 8. However, For your Understanding I Added Comments for Each Task. So Please go Through Incase you are Stuck.
+9. If you want to See Outputs of my code clone or Download Repository into your Working Direcotry and Open Command Propmt Redirect it to Working Directory and Type `python assignment1.py`
 
 #### References
 1. https://towardsdatascience.com/sqlalchemy-python-tutorial-79a577141a91
