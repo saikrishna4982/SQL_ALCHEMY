@@ -10,7 +10,7 @@ In Simple Words SQlAlchemy lets user to Interact with Databases by Using Python 
 2. After Successfull Installation of Python Open Command Prompt and Type `pip install sqlalchemy` to install SQLAlchemy
 3. Next Type `pip install sqlclient` to install SqlClient
 4. Next Type `pip install mysql-connector-python` to Install MySQL Python Connector
-5. Now Go to Any folder and create a Python File
+5. Now Go to Any folder and create a Python File and the first Thing we Need to do is Import Packages and Create a Engine
 6. Basic Syntax for Creating Engine **`dialect+driver://username:password@host:port/database`**
 7. Here in the File I Used MySQL.However, You can use Your Own Choice of Database For More info about Configuring Different Databases [Click Here](https://docs.sqlalchemy.org/en/14/core/engines.html#postgresql)
 8. However, For your Understanding I Added Comments for Each Task. So Please go Through Incase you are Stuck.
